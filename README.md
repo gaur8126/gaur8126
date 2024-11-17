@@ -81,14 +81,14 @@
 
 ## 🗂️ Projects
 
-### 📌 [Fashion Mentor Chatbot](https://github.com/your-username/fashion-mentor-chatbot)
+<!-- ### 📌 [Fashion Mentor Chatbot](https://github.com/your-username/fashion-mentor-chatbot)
 An NLP-based chatbot designed to provide personalized fashion advice using deep learning models.
 
 ### 📌 [Price Forecasting System](https://github.com/your-username/price-forecasting)
 A predictive analytics system using ARIMA models to forecast commodity prices.
 
 ### 📌 [Data Duplication Alert System (DDAS)](https://github.com/your-username/data-duplication-alert-system)
-A system to detect and alert users on duplicate file downloads using hash-based detection techniques.
+A system to detect and alert users on duplicate file downloads using hash-based detection techniques. -->
 
 ---
 
