@@ -7,7 +7,7 @@
 
 **Data Scientist | Machine Learning Enthusiast |**
 
-💡 I specialize in Python, Statistics, Machine Learning, Deep Learning, NLP, SQL, Big Data, and Data Visualization.  
+💡 I specialize in Python, Statistics, Machine Learning, Deep Learning, NLP, SQL,  and Data Visualization.  
 🔍 Passionate about transforming data into actionable insights and building AI-powered solutions.
 
 <!-- Typing Animation -->
@@ -26,7 +26,6 @@
 
 - 🧠 A passionate **Data Scientist** with expertise in Machine Learning, Deep Learning, and NLP.
 - 📊 Skilled in **Data Analysis** and creating interactive visualizations using **Power BI** and **Tableau**.
-- 🚀 Experienced in working with **Big Data** technologies like **Hadoop**, **Spark**, and **Hive**.
 - 🏆 Contributed to multiple **open-source projects** and participated in **hackathons**.
 - 🌱 Continuously learning and exploring the latest advancements in AI and Data Science.
 
@@ -81,14 +80,13 @@
 
 ## 🗂️ Projects
 
-<!-- ### 📌 [Fashion Mentor Chatbot](https://github.com/your-username/fashion-mentor-chatbot)
-An NLP-based chatbot designed to provide personalized fashion advice using deep learning models.
+### 📌 [Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)
 
-### 📌 [Price Forecasting System](https://github.com/your-username/price-forecasting)
-A predictive analytics system using ARIMA models to forecast commodity prices.
+### 📌 [BreastCancer Prediction](https://github.com/gaur8126/BreastCancer)
 
-### 📌 [Data Duplication Alert System (DDAS)](https://github.com/your-username/data-duplication-alert-system)
-A system to detect and alert users on duplicate file downloads using hash-based detection techniques. -->
+
+### 📌 [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)
+
 
 ---
 
