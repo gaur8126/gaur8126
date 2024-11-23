@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Deep%20Learning-%239141FF.svg?style=for-the-badge&logo=DeepLearning&logoColor=white" alt="Deep Learning" />
     <img src="https://img.shields.io/badge/NLP-%23E34F26.svg?style=for-the-badge&logo=NLP&logoColor=white" alt="NLP" />
     <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Big%20Data-%23FF6F00.svg?style=for-the-badge&logo=BigData&logoColor=white" alt="Big Data" />
+<!--     <img src="https://img.shields.io/badge/Big%20Data-%23FF6F00.svg?style=for-the-badge&logo=BigData&logoColor=white" alt="Big Data" /> -->
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" alt="Power BI" />
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
 </div>
@@ -84,6 +84,7 @@
 
 ### 📌 [BreastCancer Prediction](https://github.com/gaur8126/BreastCancer)
 
+### 📌 [ForestFire Prediction](https://github.com/gaur8126/Forestfire)
 
 ### 📌 [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)
 
