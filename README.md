@@ -82,7 +82,7 @@
 
 ### 📌 [Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)
 
-### 📌 [BreastCancer Prediction](https://github.com/gaur8126/BreastCancer)
+### 📌 [Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)
 
 ### 📌 [ForestFire Prediction](https://github.com/gaur8126/Forestfire)
 
