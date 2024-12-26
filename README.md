@@ -84,6 +84,8 @@
 
 ### 📌 [Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)
 
+### 📌 [Conrete compressive Strength](https://github.com/gaur8126/concrete_strength.git)
+
 ### 📌 [ForestFire Prediction](https://github.com/gaur8126/Forestfire)
 
 ### 📌 [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)
