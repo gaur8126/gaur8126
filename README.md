@@ -88,6 +88,8 @@
 
 ### 📌 [ForestFire Prediction](https://github.com/gaur8126/Forestfire)
 
+### 📌 [Posture Detector](https://github.com/gaur8126/Posture-Detector.git) 
+
 ### 📌 [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)
 
 ### 📌 [Smart Container](https://github.com/gaur8126/smatrt_container)
