@@ -79,6 +79,8 @@
 
 ## 🗂️ Projects
 
+### 📌 [NetworkSecurity](https://github.com/gaur8126/networksecurity.git)
+
 ### 📌 [Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)
 
 ### 📌 [Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)
