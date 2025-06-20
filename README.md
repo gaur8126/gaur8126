@@ -4,6 +4,7 @@
 <!-- <img src="https://github.com/gaur8126/image/blob/main/1614404532937.png" alt="Data Scientist Banner" width="100%"> -->
 
 # 👋 *Hi there*, I'm  [Lokesh](https://rusty-sj.github.io/)! 😁
+  
 
 <!-- **Data Scientist | Machine Learning Enthusiast |**
 
@@ -78,21 +79,21 @@
 
 ### Projects
 
-##### 1. [NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)
+#### *1. [NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)*
 
-##### 2. [Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)
+#### *2. [Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)*
 
-##### 3. [Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)
+#### *3. [Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)*
 
-##### 4. [Conrete compressive Strength](https://github.com/gaur8126/concrete_strength.git)
+#### *4. [Conrete compressive Strength](https://github.com/gaur8126/concrete_strength.git)*
 
-##### 5. [ForestFire Prediction](https://github.com/gaur8126/Forestfire)
+#### *5. [ForestFire Prediction](https://github.com/gaur8126/Forestfire)*
 
-##### 6. [Posture Detector](https://github.com/gaur8126/Posture-Detector.git) 
+#### *6. [Posture Detector](https://github.com/gaur8126/Posture-Detector.git)* 
 
-##### 7. [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)
+#### *7. [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)*
 
-##### 8 [Smart Container](https://github.com/gaur8126/smatrt_container)
+#### *8 [Smart Container](https://github.com/gaur8126/smatrt_container)*
 
 
 ---
