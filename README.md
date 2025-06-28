@@ -79,21 +79,23 @@
 
 ### Projects
 
-#### *1. [NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)*
+- *[NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)*
 
-#### *2. [Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)*
+- *[Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)*
 
-#### *3. [Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)*
+- *[Students Performance Indicator](https://github.com/gaur8126/StudentPerformance)*
 
-#### *4. [Conrete compressive Strength](https://github.com/gaur8126/concrete_strength.git)*
+- *[99_acres_web_scraping](https://github.com/gaur8126/99acres_Web_Scraping.git)*
 
-#### *5. [ForestFire Prediction](https://github.com/gaur8126/Forestfire)*
+- *[Conrete compressive Strength](https://github.com/gaur8126/concrete_strength.git)*
 
-#### *6. [Posture Detector](https://github.com/gaur8126/Posture-Detector.git)* 
+- *[ForestFire Prediction](https://github.com/gaur8126/Forestfire)*
 
-#### *7. [Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)*
+- *[Posture Detector](https://github.com/gaur8126/Posture-Detector.git)* 
 
-#### *8 [Smart Container](https://github.com/gaur8126/smatrt_container)*
+- *[Spam-ham-classifier](https://github.com/gaur8126/spam-ham-chatbot)*
+
+- *[Smart Container C++](https://github.com/gaur8126/smatrt_container)*
 
 
 ---
