@@ -70,9 +70,9 @@
 ### GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaur8126&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaur8126&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaur8126&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gaur8126&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaur8126&theme=chartreuse-dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaur8126&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </div>
 
 ---
