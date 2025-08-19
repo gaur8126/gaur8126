@@ -82,7 +82,7 @@
 ![](https://github-trophies.vercel.app/?username=gaur8126&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 
-<img src="https://img.shields.io/badge/Connect with Me-📞-fa8072?style=plastic&logo=linphone" width="230" height="60">
+<img src="https://img.shields.io/badge/Let's Connect -📞-fa8072?style=plastic&logo=linphone" width="230" height="60">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lokesh-178081277) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gaurlokesh1211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Lokesh_1912) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr._g_a_u_r_12)
 
