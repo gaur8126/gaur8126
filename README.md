@@ -77,9 +77,9 @@
 </div>
 
 
-<img src="https://img.shields.io/badge/GitHub_Trophies-🏆-fa8072?style=plastic&logo=riseup" width="250" height="60">
+<!--<img src="https://img.shields.io/badge/GitHub_Trophies-🏆-fa8072?style=plastic&logo=riseup" width="250" height="60">
 
-![](https://github-trophies.vercel.app/?username=gaur8126&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=gaur8126&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4) -->
 
 
 <img src="https://img.shields.io/badge/Let's Connect -📞-fa8072?style=plastic&logo=linphone" width="230" height="60">
