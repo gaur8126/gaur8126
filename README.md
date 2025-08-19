@@ -18,7 +18,7 @@
 </div>
 
 
-<img src="https://img.shields.io/badge/Projects--fa8072?style=plastic&logo=googlecloudspanner" width="230" height="60">
+<img src="https://img.shields.io/badge/Projects--fa8072?style=flat&logo=googlecloudspanner" width="220" height="30">
 
 
 - *[NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)*
@@ -40,7 +40,7 @@
 - *[Smart Container C++](https://github.com/gaur8126/smatrt_container)*
 
 
-<img src="https://img.shields.io/badge/GitHub_Stats--fa8072?style=plastic&logo=soundcharts" width="250" height="60">
+<img src="https://img.shields.io/badge/GitHub_Stats--fa8072?style=plastic&logo=soundcharts" width="220" height="30">
 
 
 
