@@ -18,7 +18,8 @@
 </div>
 
 
-<img src="https://img.shields.io/badge/Projects--fa8072?style=flat&logo=googlecloudspanner" width="220" height="30">
+<!-- <img src="https://img.shields.io/badge/Projects--fa8072?style=flat&logo=googlecloudspanner" width="220" height="30">-->
+## Projects
 
 
 - *[NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)*
@@ -40,7 +41,8 @@
 - *[Smart Container C++](https://github.com/gaur8126/smatrt_container)*
 
 
-<img src="https://img.shields.io/badge/GitHub_Stats--fa8072?style=plastic&logo=soundcharts" width="220" height="30">
+<!-- <img src="https://img.shields.io/badge/GitHub_Stats--fa8072?style=plastic&logo=soundcharts" width="220" height="30"> -->
+## GitHub States: 
 
 
 
@@ -67,7 +69,8 @@
 <!-- Snake Game Repo View -->
 
 
-<img src="https://img.shields.io/badge/Top Contributed Repo-🔝-fa8072?style=plastic&logo=argo" width="230" height="60">
+<!--<img src="https://img.shields.io/badge/Top Contributed Repo-🔝-fa8072?style=plastic&logo=argo" width="230" height="60">-->
+## Contributed Repos🔝
 
 ![](https://github-contributor-stats.vercel.app/api?username=gaur8126&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
@@ -82,7 +85,8 @@
 ![](https://github-trophies.vercel.app/?username=gaur8126&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4) -->
 
 
-<img src="https://img.shields.io/badge/Let's Connect -📞-fa8072?style=plastic&logo=linphone" width="230" height="60">
+<!--<img src="https://img.shields.io/badge/Let's Connect -📞-fa8072?style=plastic&logo=linphone" width="230" height="60">-->
+## Let's Connect -📞
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/lokesh-178081277) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@gaurlokesh1211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Lokesh_1912) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr._g_a_u_r_12)
 
