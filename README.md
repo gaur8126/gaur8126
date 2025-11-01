@@ -35,7 +35,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> Computer Vision </h3>
+      <h3 align="center"> 👁️Computer Vision </h3>
       <ul>
         <li><a href="https://github.com/gaur8126/Posture-Detector.git"><b>Posture Detector</b></a><br>Real-time posture detection using OpenCV and Mediapipe.</li>
       </ul>
@@ -43,13 +43,13 @@
   <tr>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> NLP </h3>
+      <h3 align="center"> 🗣️ NLP </h3>
       <ul>
         <li><a href="https://github.com/gaur8126/spam-ham-chatbot"><b>Spam Ham Classifier</b></a><br>It classifies whether the email is spam or not.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Generative AI</h3>
+      <h3 align="center">☣️ Generative AI</h3>
       <ul>
         <li><a href="https://github.com/gaur8126/Story_Generator.git"><b>Gemini Story Generator</b></a><br>A Gemini base story generator that generates stories in text and provide audio transcript as well, based on provided images.</li>
       </ul>
@@ -64,7 +64,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Embedded(Hardware + Software)</h3>
+      <h3 align="center">⚔️Embedded(Hardware + Software)</h3>
       <ul>
         <li><a href="https://github.com/gaur8126/smatrt_container"><b>Smart Container</b></a><br>IoT-enabled container system written in C++. A smart container build by using flex sensor and ESP32 SIM800L. It measures the volumne of material that is kept in side the container if volume runs down, sends a message(using esp's sim 800) to the ower to get him know about contained material like "25% is remaining".</li>
       </ul>
