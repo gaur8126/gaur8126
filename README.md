@@ -19,9 +19,61 @@
 
 
 <!-- <img src="https://img.shields.io/badge/Projects--fa8072?style=flat&logo=googlecloudspanner" width="220" height="30">-->
-## Projects
+
+<h2 align="center">🚀 Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Machine Learning </h3>
+      <ul>
+        <li><a href="https://github.com/gaur8126/networksecurity.git"><b>Network Security (MLOps)</b></a><br>End-to-end MLOps pipeline for detecting network intrusions.</li>
+        <li><a href="https://github.com/gaur8126/DiamondPricePrediction"><b>Diamond Price Prediction</b></a><br>Regression model predicting diamond prices using key features.</li>
+        <li><a href="https://github.com/gaur8126/StudentPerformance"><b>Student Performance Indicator</b></a><br>Predicts student grades based on demographic and academic factors.</li>
+        <li><a href="https://github.com/gaur8126/concrete_strength.git"><b>Concrete Strength Prediction</b></a><br>Regression model predicting compressive strength of concrete.</li>
+        <li><a href="https://github.com/gaur8126/Forestfire"><b>Forest Fire Prediction</b></a><br>Uses environmental data to predict fire likelihood.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"> Computer Vision </h3>
+      <ul>
+        <li><a href="https://github.com/gaur8126/Posture-Detector.git"><b>Posture Detector</b></a><br>Real-time posture detection using OpenCV and Mediapipe.</li>
+      </ul>
+  </tr>
+  <tr>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"> NLP </h3>
+      <ul>
+        <li><a href="https://github.com/gaur8126/spam-ham-chatbot"><b>Spam Ham Classifier</b></a><br>It classifies whether the email is spam or not.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Generative AI</h3>
+      <ul>
+        <li><a href="https://github.com/gaur8126/Story_Generator.git"><b>Gemini Story Generator</b></a><br>A Gemini base story generator that generates stories in text and provide audio transcript as well, based on provided images.</li>
+      </ul>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Web & Automation</h3>
+      <ul>
+        <li><a href="https://github.com/gaur8126/99acres_Web_Scraping.git"><b>99 Acres Web Scraping</b></a><br>Scrapes real estate listings and cleans structured data.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Ebbedded(Hardware + Software)</h3>
+      <ul>
+        <li><a href="https://github.com/gaur8126/smatrt_container"><b>Smart Container</b></a><br>IoT-enabled container system written in C++. A smart container build by using flex sensor and ESP32 SIM800L. It measures the volumne of material that is kept in side the container if volume runs down, sends a message(using esp's sim 800) to the ower to get him know about contained material.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
+<!--
 - *[NetworkSecurity(MLOps)](https://github.com/gaur8126/networksecurity.git)*
 
 - *[Diamond Price Prediction](https://github.com/gaur8126/DiamondPricePrediction)*
@@ -40,7 +92,7 @@
 
 - *[Smart Container C++](https://github.com/gaur8126/smatrt_container)*
 
-
+ -->
 <!-- <img src="https://img.shields.io/badge/GitHub_Stats--fa8072?style=plastic&logo=soundcharts" width="220" height="30"> -->
 ## GitHub States: 
 
