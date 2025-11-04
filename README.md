@@ -52,6 +52,7 @@
       <h3 align="center">☣️ Generative AI</h3>
       <ul>
         <li><a href="https://github.com/gaur8126/Story_Generator.git"><b>Gemini Story Generator</b></a><br>A Gemini base story generator that generates stories in text and provide audio transcript as well, based on provided images.</li>
+        <li><a href="https://github.com/gaur8126/Story_Generator.git"><b>Morning Buddy </b></a><br>A morning friend who can plan your day with current events happening in the city on current day and also provide current weather report and news reports with summary and clickable links as well.</li>
       </ul>
     </td>
   </tr>
