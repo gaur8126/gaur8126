@@ -1,12 +1,14 @@
 <div align="center">
-
 <!-- Banner Image -->
 <!--<img src="https://raw.githubusercontent.com/gaur8126/image/main/1614404532937.png" alt="Data Scientist Banner" width="100%"> -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=700&color=bf91f3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!)
+![](https://komarev.com/ghpvc/?username=your-github-gaur8126&color=orange&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
 
 
 # 👋 <b>Hi there</b>, I'm <a href="https://rusty-sj.github.io/"><span style="color:orange;">Lokesh</span></a>!
+
+
   
 
 <!-- **Data Scientist | Machine Learning Enthusiast |**
