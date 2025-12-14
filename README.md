@@ -39,6 +39,7 @@
     <td width="50%" valign="top">
       <h3 align="center"> 👁️Computer Vision </h3>
       <ul>
+        <li><a href="https://github.com/gaur8126/Posture-Detector.git"><b>Indian Sign Language Detector</b></a><br>A Deep Learning powered `GRU` based project which can detect 59 indian signs with `76.78%` accuracy with the help of `opencv` and `mediapipe`.</li>
         <li><a href="https://github.com/gaur8126/Posture-Detector.git"><b>Posture Detector</b></a><br>Real-time posture detection using OpenCV and Mediapipe.</li>
       </ul>
   </tr>
