@@ -37,18 +37,20 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> 👁️Computer Vision </h3>
+      <h3 align="center"> DL & NLP </h3>
       <ul>
         <li><a href="https://github.com/gaur8126/Indian-Sign-langauge-Detector.git"><b>Indian Sign Language Detector</b></a><br>A Deep Learning powered `GRU` based project which can detect 59 indian signs with `76.78%` accuracy with the help of `opencv` and `mediapipe`.</li>
         <li><a href="https://github.com/gaur8126/Posture-Detector.git"><b>Posture Detector</b></a><br>Real-time posture detection using OpenCV and Mediapipe.</li>
+        <li><a href="https://github.com/gaur8126/spam-ham-chatbot"><b>Spam Ham Classifier</b></a><br>It classifies whether the email is spam or not.</li>
       </ul>
   </tr>
   <tr>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> 🗣️ NLP </h3>
+      <h3 align="center"> Agentic Ai </h3>
       <ul>
-        <li><a href="https://github.com/gaur8126/spam-ham-chatbot"><b>Spam Ham Classifier</b></a><br>It classifies whether the email is spam or not.</li>
+        <li><a href="https://github.com/gaur8126/AlgoGenie.git"><b>AlgoGenie</b></a><br>The DSA Problem Solver, you can ask solutions to various data structures and algorithms problems.</li>
+        <li><a href="https://github.com/gaur8126/Literature-Review-Assistant.git"><b>Literature Review Assistant</b></a><br>Writes a short Markdown literature review from the selected papers.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
