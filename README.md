@@ -29,11 +29,12 @@
     <td width="50%" valign="top">
       <h3 align="center">🧠 Machine Learning </h3>
       <ul>
+        <li><a href="https://github.com/gaur8126/Vehicle-Insurance.git"><b>Vehicle Insurance Prediction (MLOps)</b></a><br>An end-to-end production-style Machine Learning project that predicts vehicle insurance outcomes using a modular MLOps architecture.</li>
         <li><a href="https://github.com/gaur8126/networksecurity.git"><b>Network Security (MLOps)</b></a><br>End-to-end MLOps pipeline for detecting network intrusions.</li>
         <li><a href="https://github.com/gaur8126/Car-Price-Prediction-.git"><b>Car-Price-Prediction(Using FastAPI API)</b></a><br> Machine Learning-powered API built using FastAPI to predict the selling price of a used car based on its characteristics.</li>
         <li><a href="https://github.com/gaur8126/DiamondPricePrediction"><b>Diamond Price Prediction</b></a><br>Regression model predicting diamond prices using key features.</li>
         <li><a href="https://github.com/gaur8126/StudentPerformance"><b>Student Performance Indicator</b></a><br>Predicts student grades based on demographic and academic factors.</li>
-        <li><a href="https://github.com/gaur8126/concrete_strength.git"><b>Concrete Strength Prediction</b></a><br>Regression model predicting compressive strength of concrete.</li>
+        <!-- <li><a href="https://github.com/gaur8126/concrete_strength.git"><b>Concrete Strength Prediction</b></a><br>Regression model predicting compressive strength of concrete.</li> -->
       </ul>
     </td>
     <td width="50%" valign="top">
